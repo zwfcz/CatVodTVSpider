@@ -1,6 +1,4 @@
-//
-// Decompiled by Jadx (from NP Manager)
-//
+
 package com.github.catvod.spider;
 
 import android.content.Context;
